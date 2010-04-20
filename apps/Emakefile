@@ -1,0 +1,2 @@
+{'*/server/src/*',
+	[debug_info, {outdir, "ebin"}, {i, "../apps/oms/include/"}]}.
